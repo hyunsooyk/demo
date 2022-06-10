@@ -7,6 +7,7 @@
 <title>index.jsp</title>
 </head>
 <body>
-	<h1>index</h1>
+	<h1>index 페이지입니다</h1>
+	<p> by hong </p>
 </body>
 </html>
